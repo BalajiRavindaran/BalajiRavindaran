@@ -9,7 +9,7 @@
 
  🌐 [Website][Website] **|**
  👨‍💼 [Linkedin][Linkedin] **|**
- 📫 [Mail][Mail] **|**
+ 📫 [Mail][Mail]
  
 [Website]: https://balajiravindaran.netlify.app/
 [Linkedin]: https://www.linkedin.com/in/balaji-ravindaran/
