@@ -1,4 +1,4 @@
-# BalajiRavindaran
+### Balaji Ravindaran
 
 
 - 👋 Hi, I’m Balaji Ravindaran
