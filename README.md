@@ -10,7 +10,7 @@
 <table align="center">
  <tr>
   <td style="border-style: dotted;"> 🌐 <a href = "https://balajiravindaran.netlify.app/">Website</a></td>
-  <td> 👨‍💼 <a href = "https://www.linkedin.com/in/balaji-ravindaran/">Linkedin</a></td>
-  <td> 📫 <a href = "mailto:balaji05.ravindaran@gmail.com">Mail</a></td>
+  <td style="border-style: dotted;"> 👨‍💼 <a href = "https://www.linkedin.com/in/balaji-ravindaran/">Linkedin</a></td>
+  <td style="border-style: dotted;"> 📫 <a href = "mailto:balaji05.ravindaran@gmail.com">Mail</a></td>
  </tr>
 </table>
