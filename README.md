@@ -1,5 +1,6 @@
 <h1 align="center">Balaji Ravindaran</h1>
 
+<br>
 - 👋 Hey, I’m Balaji Ravindaran
 - 👀 I’m interested in Robotics, IoT, Machine Learning, 3D industrial design and CAD/CAM
 - 🌱 I’m currently pursuing Mechatronics engineering in SRM institute of science and technology
