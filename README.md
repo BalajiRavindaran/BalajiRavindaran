@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on any projects that involves ML/DL. 
 
 
-<table align="center" border = "2px">
+<table align="center" border = "10px">
  <tr>
   <td> 🌐 <a href = "https://balajiravindaran.netlify.app/">Website</a></td>
   <td> 👨‍💼 <a href = "https://www.linkedin.com/in/balaji-ravindaran/">Linkedin</a></td>
