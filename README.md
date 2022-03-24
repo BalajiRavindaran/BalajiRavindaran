@@ -6,7 +6,7 @@
 - 🌱 I’m currently pursuing Mechatronics engineering in SRM institute of science and technology
 - 💞️ I’m looking to collaborate on any projects that involves ML/DL. 
 
-<hr>
+<h1></h1>
 <table align="center" border = "5px">
  <tr>
   <td> 🌐 <a href = "https://balajiravindaran.netlify.app/">Website</a></td>
