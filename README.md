@@ -9,7 +9,13 @@
  🌐 [Website][Website] **|**
  👨‍💼 [Linkedin][Linkedin] **|**
  📫 [Mail][Mail]
- 
+<table align="center">
+ <tr>
+  <td>🌐 [Website][Website] **|** </td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 [Website]: https://balajiravindaran.netlify.app/
 [Linkedin]: https://www.linkedin.com/in/balaji-ravindaran/
 [Mail]: balaji05.ravindaran@gmail.com
