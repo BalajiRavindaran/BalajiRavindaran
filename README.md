@@ -1,3 +1,9 @@
+<style>
+.h1 {
+ color:"red";
+ }
+</style>
+
 <h1 align="center">Balaji Ravindaran</h1>
 
 
