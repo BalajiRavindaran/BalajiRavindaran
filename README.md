@@ -9,8 +9,8 @@
 
 <table align="center">
  <tr>
-  <td><a href = "https://balajiravindaran.netlify.app/"> 🌐 Website</a></td>
+  <td><a href = "https://balajiravindaran.netlify.app/"><label> 🌐 Website </label></a></td>
   <td><a href = "https://www.linkedin.com/in/balaji-ravindaran/"> 👨‍💼 Linkedin</a></td>
-  <td><a href = "balaji05.ravindaran@gmail.com"> 📫 Mail</a></td>
+  <td><a href = "mailto:balaji05.ravindaran@gmail.com"> 📫 Mail</a></td>
  </tr>
 </table>
