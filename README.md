@@ -7,10 +7,10 @@
 - 💞️ I’m looking to collaborate on any projects that involves ML/DL. 
 
 
- 🌐 [website][website] **|**
- 👨‍💼 [linkedin][linkedin] **|**
+ 🌐 [Website][Website] **|**
+ 👨‍💼 [Linkedin][Linkedin] **|**
  📫 [Mail][Mail] **|**
  
-[website]: https://balajiravindaran.netlify.app/
-[linkedin]: https://www.linkedin.com/in/balaji-ravindaran/
+[Website]: https://balajiravindaran.netlify.app/
+[Linkedin]: https://www.linkedin.com/in/balaji-ravindaran/
 [Mail]: balaji05.ravindaran@gmail.com
