@@ -13,3 +13,5 @@
   <td> 📫 <a href = "mailto:balaji05.ravindaran@gmail.com">Mail</a></td>
  </tr>
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
