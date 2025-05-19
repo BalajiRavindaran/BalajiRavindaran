@@ -1,4 +1,4 @@
-<h1 align="center">Balaji Ravindaran</h1>
+<img src="header.png" alt="Balaji Ravindaran">
 
 - 👋 Hey, I’m Balaji Ravindaran
 - 👀 I’m interested in Robotics, IoT, Machine Learning, 3D industrial design and CAD/CAM
